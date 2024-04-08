@@ -9,6 +9,7 @@ This is a class project for reading from a text file and writing data out for si
 By default, the program opens files called TRANSACTIONS.TXT and STATEMENTS.TXT, while outputting TRANSACTIONS.TXT in the same directory. If you wish to change them, you can do the following:
 
 To change the input files, navigate to TagValues.rkt, and change the filenames on lines 100-101
+
 To change the output file, navigate to TransactionManager.rkt and change the filename on line 111
 
 # Use of generative AI
