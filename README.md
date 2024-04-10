@@ -6,7 +6,7 @@ This is a class project for reading from a text file and writing data out for si
 2. Simply run the program!
 
 # Changing input/output files
-By default, the program opens files called TRANSACTIONS.TXT and STATEMENTS.TXT, while outputting TRANSACTIONS.TXT in the same directory. If you wish to change them, you can do the following:
+By default, the program opens files called ACCOUNTS.TXT and STATEMENTS.TXT, while outputting TRANSACTIONS.TXT in the same directory. If you wish to change them, you can do the following:
 
 To change the input files, navigate to TagValues.rkt, and change the filenames on lines 100-101
 
